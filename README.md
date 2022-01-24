@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geremyel
+- 👋 Hi, I’m @jeremylaratro
 - 👀 I’m interested in ... RF (radio, LoRA, ESP8266), automation, IoT
 - 🌱 I’m currently learning ... Coding (with Arduino)
 - 💞️ I’m looking to collaborate on ...
